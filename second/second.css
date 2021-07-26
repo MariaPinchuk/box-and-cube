@@ -1,0 +1,644 @@
+.block {
+    height: 169px;
+    background-color: #e8ebf4;
+    display: table;
+    width: 100%;
+    border-bottom: 1px solid #6ec2ca;
+}
+
+.logo {
+    width: 15%;
+    display: table-cell;
+
+}
+
+.lite {
+    display: inline-block;
+    font-family: 'Lato', sans-serif;
+    color: #31a6bd;
+    font-weight: 400;
+    font-size: 25pt;
+    width: 15%;
+    position: relative;
+    margin-left: -10px
+}
+
+.bis {
+    display: inline-block;
+    font-family: 'Lato', sans-serif;
+    color: black;
+    font-weight: 900;
+    font-size: 25pt;
+    width: 21%;
+    margin-left: 36%;
+}
+
+.header-menu {
+    font-family: Arial;
+    font-weight: 600;
+    font-size: 14pt;
+    width: 30%;
+    vertical-align: middle;
+    display: table-cell;
+}
+
+.header-menu a {
+    margin-left: 5%;
+}
+
+.fa.fa-chevron-down {
+    font-size: 13px;
+    margin-left: 20px;
+    position: relative;
+    bottom: 3px;
+}
+
+.empty {
+    display: table-cell;
+    width: 5%;
+    height: inherit;
+}
+
+.full-header {
+    background-color: #82e3ec;
+    height: 700px;
+    padding-top: 25px;
+    padding-left: 11%;
+    padding-right: 11%;
+}
+
+.bc {
+    background-image: url(images2/bc.png);
+    background-repeat: no-repeat;
+    height: 647px;
+    background-size: cover;
+    display: inline-block;
+}
+
+img.coffee {
+    height: 595px;
+    position: relative;
+    left: 42%;
+}
+
+.text {
+    height: 595px;
+    display: inline-block;
+    width: 30%;
+    position: relative;
+    bottom: 20%;
+    left: -14%;
+}
+
+.text h1 {
+    font-family: 'Lato', sans-serif;
+    font-size: 50pt;
+    letter-spacing: 2px;
+    color: white;
+ }
+
+div.first-point {
+    margin-left: 42%;
+}
+
+.point {
+    height: 20px;
+    width: 20px;
+    border-radius: 100%;
+    background-color: #71a3a7;
+    display: inline-block;
+    margin-left: 2%;
+    margin-top: 1%;
+}
+
+div.white-point {
+    background-color: #ffffff;
+}
+
+.main-menu {
+    background-color: #e8ebf1;
+    height: 400px;
+    width: 100%;
+    border-bottom: 1px solid #d9d9d9;
+}
+
+.column {
+    height: auto;
+    width: 20%;
+    display: inline-block;
+}
+
+.first-column {
+    margin-left: 11%;
+}
+
+.circle {
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+    background-color: #2aacc8;
+    display: inline-block;
+    margin-top: 20%;
+}
+
+.article {
+    display: inline-block;
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+    position: relative;
+    bottom: 13px;
+    margin-left: 6%;
+    font-size: 14pt;
+}
+
+img.pen {
+    margin-left: 25%;
+    height: 60%;
+    margin-top: 17%;
+}
+
+img.frame {
+    margin-left: 16%;
+    height: 60%;
+    margin-top: 18%;
+}
+
+img.list-img {
+    margin-left: 30%;
+    height: 43%;
+    margin-top: 29%;
+}
+
+img.plane {
+    margin-left: 28%;
+    height: 54%;
+    margin-top: 25%;
+}
+
+.ut {
+    height: 60%;
+    width: 70%;
+    font-family: 'Lato', sans-serif;
+    font-size: 12pt;
+    line-height: 1.75;
+    font-weight: bolder;
+    margin-top: 5%;
+}
+
+.lorem {
+    height: 60%;
+    width: 74%;
+    font-family: 'Lato', sans-serif;
+    font-size: 12pt;
+    line-height: 1.75;
+    font-weight: bolder;
+    margin-top: 5%;
+}
+
+.phasellus {
+    height: 60%;
+    width: 70%;
+    font-family: 'Lato', sans-serif;
+    font-size: 12pt;
+    line-height: 1.75;
+    font-weight: bolder;
+    margin-top: 5%;
+}
+
+.vivamus {
+    height: 60%;
+    width: 70%;
+    font-family: 'Lato', sans-serif;
+    font-size: 12pt;
+    line-height: 1.75;
+    font-weight: bolder;
+    margin-top: 5%;
+}
+
+.read-more {
+    color: #5dbdd3;
+    font-family: 'Lato', sans-serif;
+    font-size: 12pt;
+    font-weight: bolder;
+    margin-top: 5%;
+}
+
+.fa.fa-chevron-right{
+    font-size: 10px;
+    color: black;
+    position: relative;
+    bottom: 2px;
+    margin-right: 4%;
+}
+
+.content {
+    height: 80px;
+    border-bottom: 1px solid #dfe1e5;
+    width: 79%;
+    margin: auto;
+    left: 0;
+    right: 0;
+}
+
+.arrow {
+    display: inline-block;
+    position: relative;
+    top: 15px;
+    height: 30px;
+    margin-right: 30px;
+}
+
+.content-article {
+    display: inline-block;
+    font-family: 'Lato', sans-serif;
+    font-size: 15pt;
+    position: relative;
+    top: 10px;
+}
+
+.circle-small {
+    height: 22px;
+    width: 22px;
+    border-radius: 100%;
+    background-color: #81e4ed;
+    display: inline-block;
+    position: relative;
+    top: 14px;
+    left: 78%;
+}
+
+.fa.fa-chevron-left {
+    font-size: 14px;
+    position: relative;
+    left: 5px;
+    top: 2px;
+}
+
+.fa.fa-chevron-right.more {
+    font-size: 14px;
+    position: relative;
+    left: 7px;
+    top: 2px;
+}
+
+.right-circle {
+    margin-left: 16px;
+}
+
+.works {
+    height: 235px;
+    width: 80%;
+    position: relative;
+    left: 0;
+    right: 0;
+    margin: auto;
+    padding-top: 2%;
+    border-bottom: 1px solid #dfe1e5;
+}
+
+.example {
+    height: 183px;
+    margin-right: 5%;
+}
+
+.example.target {
+    margin-right: 0;
+    position: relative;
+    top: -33px;
+}
+
+.example.paper {
+    position: relative;
+    top: -33px;
+}
+
+.example.lemon {
+    position: relative;
+    top: -33px;
+}
+
+.figures {
+    margin-right: 5%;
+    display: inline-block;
+}
+
+.blue-bottom {
+    background-color: #2aacc8;
+    height: 50%;
+    vertical-align: bottom;
+    position: relative;
+    bottom: 95px;
+}
+
+.preview {
+    height: 31%;
+    position: relative;
+    left: 28%;
+    top: 32%;
+}
+
+.inc {
+    height: 33%;
+    position: relative;
+    left: 44%;
+    top: 33%;
+}
+
+.sides {
+    width: 80%;
+    position: relative;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+
+.left-side {
+    width: 50%;
+    display: inline-block;
+}
+
+.testimonials img {
+    height: 30px;
+    margin-top: 30px;
+    vertical-align: middle;
+}
+
+.testimonials h2 {
+    font-family: 'Lato', sans-serif;
+    font-size: 15pt;
+    display: inline-block;
+    margin-top: 30px;
+    position: relative;
+    margin-bottom: 0;
+    vertical-align: middle;
+    margin-left: 20px;
+}
+
+.testimonials p {
+    font-family: 'Lato', sans-serif;
+    font-size: 13pt;
+    line-height: 2;
+}
+
+.adress {
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    margin-top: 30px;
+    font-size: 13pt;
+}
+
+.right-side {
+    width: 49%;
+    display: inline-block;
+    position: relative;
+    vertical-align: top;
+}
+
+.clients {
+    display: inline-block;
+    height: 28px;
+    margin-top: 30px;
+    vertical-align: middle;
+    margin-left: 25px;
+}
+
+.our-clients h2 {
+    display: inline-block;
+    font-family: 'Lato', sans-serif;
+    font-size: 15pt;
+    margin-top: 30px;
+    position: relative;
+    margin-bottom: 0;
+    vertical-align: middle;
+    margin-left: 20px;
+}
+
+.logos {
+    margin-top: 20px;
+    border-spacing: 0;
+    width: 97%;
+    margin-left: 4%;
+}
+
+.logos th {
+    border: 1px solid #e8ebf1;
+    padding: 16px;
+}
+
+.logo-six {
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.logo-five {
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.logo-three {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.logo-four {
+    margin-top: 8px;
+}
+
+.download-button {
+    height: 150px;
+    width: 80%;
+    position: relative;
+    left: 0;
+    right: 0;
+    margin: auto;
+    border: 1px solid #81e4ed;
+    background-color: #e8fcfe;
+    margin-top: 45px;
+}
+
+.download-button p {
+    width: 60%;
+    font-family: 'Lato', sans-serif;
+    font-size: 13pt;
+    line-height: 2;
+    margin-left: 30px;
+    margin-top: 25px;
+}
+
+.button {
+    width: 23%;
+    position: relative;
+    left: 73%;
+    bottom: 102px;
+    height: 65px;
+    background-color: #80e3ec;
+    border-radius: 10px;
+    border: 1px solid #2aacc8;
+    background: linear-gradient(#80e3ec, #39b5ce);
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    font-size: 15pt;
+}
+
+.download {
+    position: relative;
+    left: 4px;
+    margin-right: 26px;
+    top: 3px;
+}
+
+.footer {
+    height: 350px;
+    background-color: #e8ebf4;
+    width: 100%;
+    margin-top: 50px;
+    border-top: 1px solid #dadbdf;
+}
+
+.navigation {
+    font-family: 'Lato', sans-serif;
+    height: 70%;
+    position: relative;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.about {
+    width: 26%;
+    font-size: 13pt;
+    display: inline-block;
+    margin-right: 15px;
+}
+
+.about h2 {
+    font-size: 15pt;
+    margin-bottom: 10px;
+    margin-top: 30px;
+    display: inline-block;
+}
+
+.list {
+    display: inline-block;
+    width: 13%;
+    margin-right: -9px;
+    position: relative;
+    bottom: 28px;
+    line-height: 1.5;
+}
+
+.list h2 {
+    font-size: 15pt;
+}
+
+.list li {
+    list-style-type: none;
+}
+
+.about div {
+    display: inline-block;
+}
+
+.contact {
+    line-height: 1;
+    position: relative;
+    bottom: 37px;
+}
+
+.contact h2 {
+    margin-bottom: 33px;
+}
+
+.transparent-line {
+    color: transparent;
+}
+
+.social {
+    width: 19%;
+    display: inline-block;
+    margin-left: 65px;
+    height: 200px;
+    position: relative;
+    bottom: 20px;
+}
+
+.social h2 {
+    font-size: 15pt;
+    margin-bottom: 30px;
+    margin-left: 5px;
+}
+
+.social-icon {
+    background: url("images2/social.png") no-repeat;
+    width: 50px;
+    height: 50px;
+    background-size: 306%;
+}
+
+.social-icon {
+    display: inline-block;;
+    margin-left: 0;
+    margin-bottom: 5px;
+}
+
+.social-icon.facebook {
+    background-position: 0 0;
+    margin-right: 35px;
+}
+
+.social-icon.dribble {
+    background-position: -51px 0;
+    margin-right: 35px;
+}
+
+.social-icon.pinterest {
+    background-position: -100px 0;
+    margin-right: 0;
+}
+
+.social-icon.linkedin {
+    background-position: -2px -59px;
+    margin-right: 35px;
+}
+
+.social-icon.skype {
+    background-position: -51px -58px;
+    margin-right: 35px;
+}
+
+.social-icon.share {
+    background-position: -100px -59px;
+    margin-right: 0;
+}
+
+.copyright small {
+    font-size: 11pt;
+}
+
+.copyright p {
+    margin-left: 10%;
+}
+
+.bis-footer {
+    color: black;
+    font-family: 'Lato', sans-serif;
+    font-size: 40pt;
+    font-weight: 600;
+    position: relative;
+    left: 77%;
+    bottom: 84px;
+    width: 5%;
+}
+
+.lite-footer {
+    font-family: 'Lato', sans-serif;
+    color: #31a6bd;
+    font-size: 40pt;
+    position: relative;
+    left: 82%;
+    bottom: 184px;
+    font-weight: 100;
+    margin-left: -5px;
+    width: 5%;
+}
